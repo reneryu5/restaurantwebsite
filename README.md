@@ -1,6 +1,6 @@
 # Responsive Restaurant Website
 
-- Responsive Restaurant Website Design Using HTML SCSS & JavaScript
+- Responsive Restaurant Website Design Using React, Redux & SCSS
 - Contains animations when scrolling.
 - Smooth scrolling in each section.
 - Includes a dark & light theme.
